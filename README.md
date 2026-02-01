@@ -1,9 +1,17 @@
-# 🌿 AI-Powered Tea Leaf Disease Detection System
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![React](https://img.shields.io/badge/React-Vite-61DAFB)
+
+![Python](https://img.shields.io/badge/Python-ML%20%26%20API-blue)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-orange)
-![Flask](https://img.shields.io/badge/Flask-Backend-green)
+![Flask](https://img.shields.io/badge/Flask-Backend%20API-green)
+![React](https://img.shields.io/badge/React-Vite%20Frontend-61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-Styling-lightblue)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Disease%20Detection-red)
+![Web App](https://img.shields.io/badge/Web%20App-ML%20Interface-brightgreen)
+![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-important)
+
+
+
+# 🌿 AI-Powered Tea Leaf Disease Detection System
 
 A machine learning-based web application designed to detect tea leaf diseases and provide actionable fertilizer/remedy recommendations in both **Sinhala** and **English**. This project aims to help tea planters identify diseases early and treat them effectively using both organic and chemical methods.
 
